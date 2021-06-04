@@ -12,4 +12,4 @@ Demo of collecting data process.
 |4|004_tw_quartrely_stock_frp| Taiwan listed and otc firm's income statement. |  sym(int) year(int) season(int) |DataFrame|
 |5|005_tw_daily_stock_margin| Taiwan listed firm's margin purhcase and short sales information(including ETF) |  date(str) |DataFrame|
 |6|006_tw_daily_stock_price2| Taiwan listed stock's price. |  date(str) |DataFrame|
-
+|7|007_ptt| Post's information of Ptt. e.g. title, author, comments, etc. |  - |dict|
